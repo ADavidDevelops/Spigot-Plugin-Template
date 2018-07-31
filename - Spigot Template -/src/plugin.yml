@@ -1,0 +1,5 @@
+name: PluginName
+main: me.nethergoblin.MainPluginName
+version: 0.0
+author: NetherGoblin
+description: Description
